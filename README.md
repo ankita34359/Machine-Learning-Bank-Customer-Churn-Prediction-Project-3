@@ -7,10 +7,10 @@ This project aims to predict customer churn in the banking sector using a machin
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲
 
-𝗕𝗮𝗻𝗸 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗖𝗵𝘂𝗿𝗻 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻.𝗶𝗽𝘆𝗻𝗯 Jupyter notebook with comprehensive data exploration, preprocessing, model training, evaluation, and selection processes.
-𝗯𝗮𝗻𝗸𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿𝗖𝗵𝘂𝗿𝗻.𝗽𝘆: Streamlit web application script enabling users to input customer data and predict the likelihood of churn using the trained model.
-𝗯𝗮𝗻𝗸_𝗰𝗵𝘂𝗿𝗻_𝗱𝗮𝘁𝗮.𝗰𝘀𝘃: The dataset used for training and evaluating the models.
-𝗯𝗮𝗻𝗸_𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿_𝗰𝗵𝘂𝗿𝗻_𝗺𝗼𝗱𝗲𝗹.𝗽𝗸𝗹: The saved machine learning model (using joblib) that provides predictions in the Streamlit app.
+- 𝗕𝗮𝗻𝗸 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗖𝗵𝘂𝗿𝗻 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻.𝗶𝗽𝘆𝗻𝗯 Jupyter notebook with comprehensive data exploration, preprocessing, model training, evaluation, and selection processes.
+- 𝗯𝗮𝗻𝗸𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿𝗖𝗵𝘂𝗿𝗻.𝗽𝘆: Streamlit web application script enabling users to input customer data and predict the likelihood of churn using the trained model.
+- 𝗯𝗮𝗻𝗸_𝗰𝗵𝘂𝗿𝗻_𝗱𝗮𝘁𝗮.𝗰𝘀𝘃: The dataset used for training and evaluating the models.
+- 𝗯𝗮𝗻𝗸_𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿_𝗰𝗵𝘂𝗿𝗻_𝗺𝗼𝗱𝗲𝗹.𝗽𝗸𝗹: The saved machine learning model (using joblib) that provides predictions in the Streamlit app.
 
 𝗧𝗮𝘀𝗸𝘀 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗲𝗱
 
